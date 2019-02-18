@@ -1,4 +1,4 @@
-![Ayahuasca vs Drugs](./Aya.png)
+![Ayahuasca vs Drugs](./Visualizations/Aya.png)
 
 
 ## Problem Statement
